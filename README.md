@@ -24,6 +24,10 @@ CSV 파일을 불러와 데이터를 분석하고, 시각화를 통해 쉽게 �
 
 실행후 폰트가 다운로드가 완료됬다면 코랩 런타임을 재시작 해주세요.
 
-```!sudo apt-get install -y fonts-nanum
+```
+!sudo apt-get install -y fonts-nanum
 !sudo fc-cache -fv
-!rm ~/.cache/matplotlib -rf```
+!rm ~/.cache/matplotlib -rf
+```
+
+폰트 적용후 a.csv 파일을 다운받은후 코랩에 업로드 하여 코드를 실행 하면 됩니다.
